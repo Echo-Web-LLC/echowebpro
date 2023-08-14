@@ -149,7 +149,6 @@ const Pricing = () => {
                                 <span className="text-gray-700"> Ecommerce capabilities  </span>
                             </li>
                         </ul>
-
                         <a
                             className="mt-8 block rounded-full border bg-blue-500 px-12 py-3 text-center text-sm font-medium text-white hover:bg-opacity-90 focus:outline-none active:text-gray-500"
                             href="https://ixqu3aocu0m.typeform.com/to/xbbAeMQY"
@@ -163,7 +162,7 @@ const Pricing = () => {
                     >
                         <div className="text-center">
                             <h2 className="text-2xl font-medium text-gray-800">
-                                Starter
+                                Brochure Website
                                 <span className="sr-only">Plan</span>
                             </h2>
 
@@ -269,7 +268,6 @@ const Pricing = () => {
                                 <span className="text-gray-700"> 3 Minor Revisions </span>
                             </li>
                         </ul>
-
                         <a
                             href="https://ixqu3aocu0m.typeform.com/to/xbbAeMQY"
                             className="mt-8 block rounded-full border border-blue-300 bg-white px-12 py-3 text-center text-sm font-medium text-blue-400 hover:ring-1 hover:ring-blue-400 focus:outline-none focus:ring active:text-blue-300"

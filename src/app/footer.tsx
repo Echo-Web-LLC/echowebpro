@@ -256,12 +256,12 @@ const footer = () => {
                                     <a href="termsandconditions" className="text-gray-500 transition hover:opacity-75">
                                         Terms and Condition
                                     </a>
-                                </li>
+                                </li> */}
                                 <li>
-                                    <a href="privacypolicy" className="text-gray-500 transition hover:opacity-75">
+                                    <a href="https://products.groupdocs.app/viewer/app?lang=en&file=527dde53-5755-44c6-b350-decc086f3a9e/echo%20web%20privacy%20policy.pdf" className="text-gray-500 transition hover:opacity-75">
                                         Privacy Policy
                                     </a>
-                                </li> */}
+                                </li>
                             </ul>
 
                             <p className="mt-8 text-xs text-gray-500 sm:mt-0">

@@ -5,7 +5,7 @@ const banner = () => {
                 <div
                     className="mx-auto max-w-screen-xl px-4 py-32 lg:flex lg:items-center"
                 >
-                    <div className="mx-auto max-w-xl text-center shadow-lg p-10 rounded-xl bg-opacity-5 bg-gray-50">
+                    <div className="fade-in-bottom mx-auto max-w-xl text-center shadow-lg p-10 rounded-xl bg-opacity-5 bg-gray-50">
                         <h1 className="text-2xl font-extrabold sm:text-5xl text-gray-800 drop-shadow-xl">
                             Amplify Your Voice.
                             <br />
