@@ -15,7 +15,7 @@ const sectionCTA = () => {
                                 </h2>
 
                                 <p className="hidden text-white/90 sm:mt-4 sm:block">
-                                    Turn frustration into digital delight! Just like a determined kid's resounding yell, Echo Web LLC transforms your business energy into echoing rewards. Let us help your brand resound across the world with expert strategies that deliver. Elevate your voice with Echo Web LLC and watch your message reach new horizons.
+                                    Transform frustration into digital delight with Echo Web LLC! Experience resounding rewards as we craft your dream brochure site. Our expert team designs, develops, and deploys with precision, ensuring a seamless online presence. Elevate your brand today with Echo Web LLC's exceptional solutions. Yes, to turning visions into captivating realities!
                                 </p>
 
                                 <div className="mt-4 md:mt-8">
