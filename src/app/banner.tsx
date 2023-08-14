@@ -18,8 +18,8 @@ const banner = () => {
                             </strong>
                         </h1>
 
-                        <p className="mt-4 sm:text-xl/relaxed text-gray-800">
-                            Amplify your digital presence with Echo Web LLC's resonating solutions.
+                        <p className="mt-4 sm:text-lg/relaxed text-gray-800">
+                            Swiftly deploy brochure sites to lay the foundation for endless possibilities. Our sites have the capability to seamlessly add features and designs as your vision expands. Subtle Steps, Resonating Impact.
                         </p>
 
                         <div className="mt-8 flex flex-wrap justify-center gap-4">

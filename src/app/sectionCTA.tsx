@@ -15,7 +15,7 @@ const sectionCTA = () => {
                                 </h2>
 
                                 <p className="hidden text-white/90 sm:mt-4 sm:block">
-                                    Transform frustration into digital delight with Echo Web LLC! Experience resounding rewards as we craft your dream brochure site. Our expert team designs, develops, and deploys with precision, ensuring a seamless online presence. Elevate your brand today with Echo Web LLC's exceptional solutions. Yes, to turning visions into captivating realities!
+                                    Echo Web LLC accelerates growth through efficient web design, development, and deployment, with some projects as quick as one day. Our custom-coded solutions allow easy expansion and enhancement, providing a solid base for designs and functionalities. Count on us for rapid initiation, impactful performance, and adaptable groundwork that sets you up for online success.
                                 </p>
 
                                 <div className="mt-4 md:mt-8">
