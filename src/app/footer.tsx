@@ -1,5 +1,5 @@
 import Image from "next/image"
-import FooterImg from '../../public/Screen Shot 2023-08-13 at 7.13.10 PM.png';
+import FooterImg from '../../public/ScreenShot2023-08-13.png';
 
 const footer = () => {
     return (
