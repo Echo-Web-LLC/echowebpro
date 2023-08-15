@@ -252,11 +252,11 @@ const footer = () => {
                     <div className="mt-12 border-t border-gray-100 pt-12">
                         <div className="sm:flex sm:items-center sm:justify-between">
                             <ul className="flex flex-wrap gap-4 text-xs">
-                                {/* <li>
-                                    <a href="termsandconditions" className="text-gray-500 transition hover:opacity-75">
+                                <li>
+                                    <a href="https://products.groupdocs.app/viewer/app?lang=en&file=fa6fb68a-1b2a-4eb3-b552-44ec651d3e1d/Terms%20and%20Conditions%20-%20Pricing%20and%20Project%20Cancellation_.pdf" className="text-gray-500 transition hover:opacity-75">
                                         Terms and Condition
                                     </a>
-                                </li> */}
+                                </li>
                                 <li>
                                     <a href="https://products.groupdocs.app/viewer/app?lang=en&file=527dde53-5755-44c6-b350-decc086f3a9e/echo%20web%20privacy%20policy.pdf" className="text-gray-500 transition hover:opacity-75">
                                         Privacy Policy
