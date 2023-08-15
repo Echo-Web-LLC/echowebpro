@@ -10,7 +10,7 @@ const Pricing = () => {
                             <h2 className="text-2xl font-medium text-gray-900">
                                 Total Package
                                 <br />
-                                <span className="text-gray-700 text-sm"> $100 Discount </span>
+                                <span className="text-gray-700 text-sm"> Save $100 </span>
                                 <span className="sr-only">Plan</span>
                             </h2>
 
